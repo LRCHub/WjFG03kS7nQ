@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "November Rain (2022 Version)",
+  "base_artist": "Guns N' Roses",
+  "createdAt": "2026-03-04T08:13:47.686730Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "November Rain",
+      "artist": "Korallreven",
+      "has_synced": false,
+      "path": "select/01_November_Rain_Korallreven.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "November Rain",
+      "artist": "Jimi Jamison",
+      "has_synced": true,
+      "path": "select/02_November_Rain_Jimi_Jamison.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "November Rain - Piano Version / 1986 Sound City Session",
+      "artist": "Guns N' Roses",
+      "has_synced": false,
+      "path": "select/03_November_Rain_-_Piano_Version___1986_Sound_City_Session_Guns_N'_Roses.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "November Rain",
+      "artist": "Rockabye Baby!",
+      "has_synced": false,
+      "path": "select/04_November_Rain_Rockabye_Baby!.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "November Rain",
+      "artist": "Steve 'n' Seagulls",
+      "has_synced": false,
+      "path": "select/05_November_Rain_Steve_'n'_Seagulls.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "November Rain",
+      "artist": "The Arrogant Sons of Bitches",
+      "has_synced": true,
+      "path": "select/06_November_Rain_The_Arrogant_Sons_of_Bitches.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "November Rain (2022 Version)",
+      "artist": "Guns N' Roses",
+      "has_synced": true,
+      "path": "select/07_November_Rain_(2022_Version)_Guns_N'_Roses.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "November Rain (Live)",
+      "artist": "Guns N' Roses",
+      "has_synced": true,
+      "path": "select/08_November_Rain_(Live)_Guns_N'_Roses.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "November Rain",
+      "artist": "Guns N' Roses",
+      "has_synced": true,
+      "path": "select/09_November_Rain_Guns_N'_Roses.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "November Rain",
+      "artist": "Guns N' Roses",
+      "has_synced": true,
+      "path": "select/10_November_Rain_Guns_N'_Roses.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "November rain",
+      "artist": "Guns 'N Roses",
+      "has_synced": true,
+      "path": "select/11_November_rain_Guns_'N_Roses.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "November Rain",
+      "artist": "Guns N’ Roses",
+      "has_synced": true,
+      "path": "select/12_November_Rain_Guns_N’_Roses.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Aus Sommer wird November Rain",
+      "artist": "Alex Diehl",
+      "has_synced": true,
+      "path": "select/13_Aus_Sommer_wird_November_Rain_Alex_Diehl.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "November Rain - Acoustic Version / 1986 Sound City Session",
+      "artist": "Guns N' Roses",
+      "has_synced": false,
+      "path": "select/14_November_Rain_-_Acoustic_Version___1986_Sound_City_Session_Guns_N'_Roses.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It's Alright / November Rain (Live In Paris, Hippodrome De Vincennes - June 6, 1992)",
+      "artist": "Guns N' Roses",
+      "has_synced": true,
+      "path": "select/15_It's_Alright___November_Rain_(Live_In_Paris,_Hippodrome_De_Vincennes_-_June_6,_1_Guns_N'_Roses.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "November Rain",
+      "artist": "ガンズ・アンド・ローゼズ",
+      "has_synced": false,
+      "path": "select/pl_01_November_Rain_ガンズ・アンド・ローゼズ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "November Rain",
+      "artist": "ガンズ・アンド・ローゼズ",
+      "has_synced": false,
+      "path": "select/pl_02_November_Rain_ガンズ・アンド・ローゼズ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "November Rain",
+      "artist": "ガンズ・アンド・ローゼズ",
+      "has_synced": false,
+      "path": "select/pl_03_November_Rain_ガンズ・アンド・ローゼズ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "November Rain",
+      "artist": "ガンズ・アンド・ローゼズ",
+      "has_synced": false,
+      "path": "select/pl_04_November_Rain_ガンズ・アンド・ローゼズ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "November Rain",
+      "artist": "ガンズ・アンド・ローゼズ",
+      "has_synced": false,
+      "path": "select/pl_05_November_Rain_ガンズ・アンド・ローゼズ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "November Rain",
+      "artist": "ガンズ・アンド・ローゼズ",
+      "has_synced": false,
+      "path": "select/pl_06_November_Rain_ガンズ・アンド・ローゼズ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "November Rain",
+      "artist": "ガンズ・アンド・ローゼズ",
+      "has_synced": false,
+      "path": "select/pl_07_November_Rain_ガンズ・アンド・ローゼズ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "November Rain",
+      "artist": "ガンズ・アンド・ローゼズ",
+      "has_synced": false,
+      "path": "select/pl_08_November_Rain_ガンズ・アンド・ローゼズ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "November Rain",
+      "artist": "ガンズ・アンド・ローゼズ",
+      "has_synced": false,
+      "path": "select/pl_09_November_Rain_ガンズ・アンド・ローゼズ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "November Rain",
+      "artist": "ガンズ・アンド・ローゼズ",
+      "has_synced": false,
+      "path": "select/pl_10_November_Rain_ガンズ・アンド・ローゼズ.txt"
+    }
+  ]
+}
